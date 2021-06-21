@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gracek7689
+- 👀 I’m interested in software development, cybersecurity, and the implications of technology on social change.
+- 🌱 I’m currently learning back end development.
